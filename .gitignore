@@ -1,0 +1,8 @@
+biblioteca_popular/
+cine/
+museos_datosabiertos/
+venv/
+.env
+tasker_status.log
+file_paths.txt
+__pycache__/
